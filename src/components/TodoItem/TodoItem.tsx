@@ -70,8 +70,12 @@ export const TodoItem = (props: { todo: Todo }) => {
                         type="text"
                         value={editingTodoText}
                         onChange={(e) => setEditingTodoText(e.target.value)}
+                        className="input-style"
                     />
-                    <button onClick={() => handleUpdate(todo.id)}>
+                    <button
+                        onClick={() => handleUpdate(todo.id)}
+                        className="update-btn"
+                    >
                         Update
                     </button>
                 </motion.div>

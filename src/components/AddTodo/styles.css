@@ -18,6 +18,8 @@
     box-shadow: 0 0 10px #719ece;
 }
 .submit-style {
+    background-color: transparent;
+    color: white;
     width: 80px;
     height: 50px;
     border-radius: 10px;

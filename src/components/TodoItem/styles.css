@@ -1,5 +1,6 @@
 .todo-item {
-    list-style-type: none;
+    margin-top: 10px;
+    text-transform: capitalize;
     text-align: left;
     border-bottom: 1px solid white;
 }
@@ -23,4 +24,35 @@
 .todo-options > button:hover {
     background-color: white;
     color: black;
+}
+
+.input-style {
+    width: 200px;
+    height: 30px;
+    padding: 0 10px;
+    text-transform: capitalize;
+    font-size: 1.2rem;
+    margin: 0 10px 10px;
+    border-radius: 10px;
+}
+.input-style:focus {
+    outline: none;
+    border: 1px solid #719ece;
+    box-shadow: 0 0 10px #719ece;
+}
+.update-btn {
+    background-color: transparent;
+    color: white;
+    width: 80px;
+    height: 30px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.update-btn:hover {
+    background-color: rgb(19, 18, 18);
+    border: 1px solid #719ece;
+    box-shadow: 0 0 10px #719ece;
+    color: white;
 }
