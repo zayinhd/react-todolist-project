@@ -1,0 +1,26 @@
+.todo-item {
+    list-style-type: none;
+    text-align: left;
+    border-bottom: 1px solid white;
+}
+
+.todo-options {
+    margin: 5px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.todo-options > button {
+    margin-right: 5px;
+    padding: 5px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+.todo-options > button:hover {
+    background-color: white;
+    color: black;
+}

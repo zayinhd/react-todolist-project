@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "target": "es5",
+        "lib": [
+            "dom",
+            "dom.Iterable",
+            "ES2015",
+        ],
+        "jsx": "react",
+    },
+    "include": [
+        "src/**/*.ts",
+        "src/**/*.tsx",
+        "node_modules/react-hot-toast/**/*.d.ts",
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

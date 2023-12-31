@@ -1,0 +1,7 @@
+.todo {
+    width: 50vw;
+    border: 3px solid white;
+    border-radius: 10px;
+    box-sizing: border-box;
+    text-align: left;
+}
