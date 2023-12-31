@@ -1,4 +1,9 @@
 # Todo List Project
+![Screenshot (33)](https://github.com/zayinhd/react-todolist-project/assets/88446286/928d07dc-00c8-41c2-b90b-40accc65b0fa)
+
+![Screenshot (31)](https://github.com/zayinhd/react-todolist-project/assets/88446286/8beb8b2f-46a2-4657-87cc-dc75bb3de219)
+
+![Screenshot (32)](https://github.com/zayinhd/react-todolist-project/assets/88446286/c412487a-81e1-40ae-9c24-c08f4943592f)
 
 # Getting Started with Create React App
 
